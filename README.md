@@ -1,12 +1,4 @@
-# mongoose-dynamic-querybuilder
-
-```
-
-A utility library for building dynamic queries with Mongoose.
-
-
-
-```
+mongoose-dynamic-querybuilder, a utility library for building dynamic queries with Mongoose.
 
 ## Installation
 
@@ -83,3 +75,10 @@ Creates a new instance of QueryBuilder.
   GET <http://localhost:5000/api/v1/users?sort=-username>
 
   ```
+
+## What's new?
+
+- Added support for dynamic search on specific fields.
+- Added support for selecting specific fields to be returned in the query.
+- Added support for counting the total number of documents with all filters without pagination.
+- Added support for search with objectId
