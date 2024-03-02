@@ -1,6 +1,6 @@
 {
   "name": "mongoose-dynamic-querybuilder",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is Mongoose/Mongo QueryBuilder npm package that can fetch datas dynamically",
   "repository": "https://github.com/0nahid/mongoose-dynamic-querybuilder.git",
   "author": "0nahid",

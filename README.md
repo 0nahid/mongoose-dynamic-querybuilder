@@ -82,3 +82,4 @@ Creates a new instance of QueryBuilder.
 - Added support for selecting specific fields to be returned in the query.
 - Added support for counting the total number of documents with all filters without pagination.
 - Added support for search with objectId
+- Added support for search with boolean
